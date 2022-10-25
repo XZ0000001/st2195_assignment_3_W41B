@@ -1,5 +1,6 @@
 library(DBI)
 library(dplyr)
+library(dbplyr)
 library(RSQLite)
 
 # set the working directory that contains the files
